@@ -1,0 +1,8 @@
+*.suo
+*.exe
+.vs/
+packages/
+WebSocketLibrary1/bin
+WebSocketLibrary1/obj
+RunWebSocket/bin
+RunWebSocket/obj
